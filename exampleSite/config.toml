@@ -10,14 +10,6 @@ weight = 1
 name = "Contact"
 url = "/contact/"
 weight = 5
-[[menu.main]]
-name = "About"
-url = "/about/"
-weight = 4
-[[menu.main]]
-name = "Work"
-url = "/work/"
-weight = 3
 [module.hugoVersion]
 extended = true
 min = "0.55.0"
