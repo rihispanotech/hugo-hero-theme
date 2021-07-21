@@ -1,28 +1,27 @@
-email: 'example@example.com'
-phone: 'XXXX XXX XXX'
+email: 'info@rihispanotech.com'
+phone: '401-753-4270'
 businessName: 'Hugo Serif'
 address: |
-  123 Some Street
-  City, State 12345
+  Providence, RI
 hours:
   - day: Monday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Tuesday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Wednesday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Thursday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Friday
-    open: 8:30am
+    open: 9:00am
     close: 5:00pm
   - day: Saturday
-    open: Closed
-    close:
+    open: 10:00 AM
+    close: 3:00 PM
   - day: Sunday
     open: Closed
     close:
