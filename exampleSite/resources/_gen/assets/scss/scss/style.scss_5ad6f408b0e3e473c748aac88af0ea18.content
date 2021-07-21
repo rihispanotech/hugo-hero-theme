@@ -6000,7 +6000,7 @@ ul.social {
   background-size: cover;
   background-repeat: no-repeat;
   background-blend-mode: overlay;
-  background-color: #1c3ed3;
+  background-color: #1c3ed345;
   height: 400px;
   position: relative;
   padding-top: 60px; }
