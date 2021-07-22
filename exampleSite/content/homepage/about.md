@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
-weight: 2
+title: Our Difference
+weight: "2"
 background: ''
-button: 'About Us'
-buttonLink: 'about'
----
+button: About Us
+buttonLink: about
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+---
+We connect with our clients like no other provider making sure we meet their requirements during the development and after it. In addition, making our clients happy is our top priority.
