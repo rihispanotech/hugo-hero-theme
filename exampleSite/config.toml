@@ -5,11 +5,12 @@ themesDir = "../.."
 title = "Hugo Hero Theme"
 [[menu.main]]
 name = "HOME"
+url = "<a href=\"/\">"
 weight = 1
 [[menu.main]]
 name = "Contact"
 url = "/contact/"
-weight = 5
+weight = 3
 [module.hugoVersion]
 extended = true
 min = "0.55.0"
