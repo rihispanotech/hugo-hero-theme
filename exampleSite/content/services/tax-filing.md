@@ -1,6 +1,6 @@
 ---
 title: Technical Training
-date: 2018-11-18T12:33:46.000+10:00
+date: 2021-07-22T04:00:00+00:00
 icon: services/service-icon-6.png
 featured: true
 weight: "2"
