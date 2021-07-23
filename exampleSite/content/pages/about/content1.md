@@ -2,7 +2,7 @@
 title: RIGHT
 date: 2018-12-06T09:29:16.000+10:00
 weight: "1"
-background: https://www.cs.gsu.edu/files/2021/06/computer-science-banner.jpg
+background: https://miro.medium.com/max/500/1*YI_uaHxsGKUtMx2sEcD5zw.jpeg
 align: right
 
 ---
