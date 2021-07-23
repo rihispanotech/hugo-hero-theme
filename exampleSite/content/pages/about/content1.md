@@ -2,7 +2,7 @@
 title: RIGHT
 date: 2018-12-06T09:29:16.000+10:00
 weight: "1"
-background: https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg
+background: https://www.cs.gsu.edu/files/2021/06/computer-science-banner.jpg
 align: right
 
 ---
