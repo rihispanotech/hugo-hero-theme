@@ -2,7 +2,7 @@
 title: RIGHT
 date: 2018-12-06T09:29:16.000+10:00
 weight: "1"
-background: https://assets.entrepreneur.com/content/3x2/2000/1616388542-pexels-olia-danilevich-49749122.jpg
+background: https://prod-discovery.edx-cdn.org/media/programs/card_images/e0de6882-c5d1-43f3-99e0-17e386489dca-9c3bda2df48f.jpg
 align: right
 
 ---
