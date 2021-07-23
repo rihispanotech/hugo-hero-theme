@@ -5,7 +5,7 @@ themesDir = "../.."
 title = "Hugo Hero Theme"
 [[menu.main]]
 name = "HOME"
-url = "<a href=\"/\">"
+url = "/"
 weight = 1
 [[menu.main]]
 name = "Contact"
