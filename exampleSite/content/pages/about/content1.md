@@ -2,7 +2,7 @@
 title: RIGHT
 date: 2018-12-06T09:29:16.000+10:00
 weight: "1"
-background: https://miro.medium.com/max/500/1*YI_uaHxsGKUtMx2sEcD5zw.jpeg
+background: https://aesd-748e.kxcdn.com/wp-content/uploads/2016/06/Goal_Mission.jpg
 align: right
 
 ---
