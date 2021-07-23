@@ -2,7 +2,7 @@
 title: RIGHT
 date: 2018-12-06T09:29:16.000+10:00
 weight: "1"
-background: https://your.yale.edu/sites/default/files/images/ct_training.jpg
+background: https://assets.entrepreneur.com/content/3x2/2000/1616388542-pexels-olia-danilevich-49749122.jpg
 align: right
 
 ---
