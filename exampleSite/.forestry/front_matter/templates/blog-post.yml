@@ -1,0 +1,28 @@
+---
+label: Blog Post
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: icon
+  label: icon
+- type: boolean
+  name: featured
+  label: featured
+- type: number
+  name: weight
+  label: weight
+- type: text
+  name: heroHeading
+  label: heroHeading
+- type: text
+  name: heroSubHeading
+  label: heroSubHeading
+- type: file
+  name: heroBackground
+  label: heroBackground
