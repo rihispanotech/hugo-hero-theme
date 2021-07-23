@@ -2,7 +2,7 @@
 title: RIGHT
 date: 2018-12-06T09:29:16.000+10:00
 weight: "1"
-background: https://aesd-748e.kxcdn.com/wp-content/uploads/2016/06/Goal_Mission.jpg
+background: https://www.ibfan.org/wp-content/uploads/2020/02/Our-Mission.png
 align: right
 
 ---
